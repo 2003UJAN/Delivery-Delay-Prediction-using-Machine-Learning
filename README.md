@@ -52,7 +52,7 @@ It demonstrates skills relevant for **Data Scientist / Decision Scientist / Data
 
 Typical performance:
 
-- **Accuracy:** ~82–88%  
+- **Accuracy:** 97%  
 - Good recall on delayed shipments  
 
 ---
