@@ -74,19 +74,19 @@ The model typically achieves:
 ```bash
 pip install -r requirements.txt
 
-2. Start the app
-
+### **2. Start the app**
+```bash
 streamlit run app.py
 
-3. Upload or enter shipment details
+### **3. Upload or enter shipment details**
 
-The app predicts:
+ The app predicts:
 
     🟢 On-Time Shipment
 
     🔴 Delayed Shipment
 
-🖥 Folder Structure
+### **🖥 Folder Structure**
 
 delivery-delay-prediction/
 │
@@ -97,7 +97,7 @@ delivery-delay-prediction/
 └── notebooks/
        └── model_training.ipynb
 
-##📈 Future Improvements
+### **📈 Future Improvements**
 
     Add route-based features (lat-long + geospatial)
 
@@ -109,7 +109,7 @@ delivery-delay-prediction/
 
     Deploy the Streamlit app on Streamlit Cloud
 
-##👨‍💻 Author
+### **👨‍💻 Author**
 
 Ujan Pradhan
 AI/ML & Data Science Projects
