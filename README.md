@@ -73,11 +73,11 @@ The model typically achieves:
 ### **1. Install dependencies**
 ```bash
 pip install -r requirements.txt
-
+---
 ### **2. Start the app**
 ```bash
 streamlit run app.py
-
+---
 ### **3. Upload or enter shipment details**
 
  The app predicts:
@@ -85,7 +85,7 @@ streamlit run app.py
     🟢 On-Time Shipment
 
     🔴 Delayed Shipment
-
+---
 ### **🖥 Folder Structure**
 
 delivery-delay-prediction/
@@ -96,7 +96,7 @@ delivery-delay-prediction/
 ├── README.md
 └── notebooks/
        └── model_training.ipynb
-
+---
 ### **📈 Future Improvements**
 
     Add route-based features (lat-long + geospatial)
@@ -108,7 +108,7 @@ delivery-delay-prediction/
     Add SHAP explanations for model interpretability
 
     Deploy the Streamlit app on Streamlit Cloud
-
+---
 ### **👨‍💻 Author**
 
 Ujan Pradhan
