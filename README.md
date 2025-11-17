@@ -97,7 +97,7 @@ delivery-delay-prediction/
 └── notebooks/
        └── model_training.ipynb
 
-📈 Future Improvements
+##📈 Future Improvements
 
     Add route-based features (lat-long + geospatial)
 
@@ -109,7 +109,7 @@ delivery-delay-prediction/
 
     Deploy the Streamlit app on Streamlit Cloud
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Ujan Pradhan
 AI/ML & Data Science Projects
